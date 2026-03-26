@@ -123,6 +123,7 @@ POSTGRES_PORT=5432
 
 ## 📸 Screenshot 
 
+![tampilan awal django](https://github.com/user-attachments/assets/dc178957-da7f-40a1-9b41-82a6b550988c)
 
 ---
 
